@@ -41,4 +41,6 @@ cert-types/latest.json .....  the latest machine readable version of the IRT typ
 
 api.md ......initial description of using the global-irt format for use in an API.
 
+Update "README.md" with clear project information, features, setup instructions, usage guidance, and contribution details.
+
 
